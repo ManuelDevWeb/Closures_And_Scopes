@@ -1,0 +1,9 @@
+Scope.
+-> Es el alcance que determina la accesibilidad de las variables
+-> Determina la accesibilidad de variables, objetos y funciones
+   desde diferentes partes del codigo.
+
+Tipos de Scope.
+-> Global
+-> Function
+-> Block
